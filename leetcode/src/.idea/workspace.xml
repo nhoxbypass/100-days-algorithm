@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f646638-1c7c-4f33-a3e2-aa435f90b25d" name="Changes" comment="Leetcode: q2460_apply_operations_to_an_array.q1980_find_unique_binary_string">
+    <list default="true" id="4f646638-1c7c-4f33-a3e2-aa435f90b25d" name="Changes" comment="Leetcode: q1780_check_if_number_is_a_sum_of_powers_of_three">
+      <change afterPath="$PROJECT_DIR$/y2025/q2579_count_total_number_of_colored_cells/Solution.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/lap16399-local/avengers/ironman/100days-algorithm/leetcode/src/y2025/q2460_apply_operations_to_an_array"
+    "last_opened_file_path": "/Users/lap16399-local/avengers/ironman/100days-algorithm/leetcode/src/y2025"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -50,13 +51,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/y2025/q2460_apply_operations_to_an_array" />
       <recent name="$PROJECT_DIR$/y2025" />
+      <recent name="$PROJECT_DIR$/y2025/q2460_apply_operations_to_an_array" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/y2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SolutionKt (4)">
+  <component name="RunManager" selected="Kotlin.SolutionKt (5)">
     <configuration name="SolutionKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="y2025.q1079_letter_tile_possibilities.SolutionKt" />
       <module name="leetcode" />
@@ -85,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="y2025.q3174_clear_digits.SolutionKt" />
+    <configuration name="SolutionKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="y2025.q2579_count_total_number_of_colored_cells.SolutionKt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SolutionKt (5)" />
         <item itemvalue="Kotlin.SolutionKt (4)" />
         <item itemvalue="Kotlin.SolutionKt (3)" />
         <item itemvalue="Kotlin.SolutionKt (2)" />
         <item itemvalue="Kotlin.SolutionKt (1)" />
-        <item itemvalue="Kotlin.SolutionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -366,24 +367,90 @@
       <option name="project" value="LOCAL" />
       <updated>1740849965273</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Leetcode: q2460_apply_operations_to_an_array.q1980_find_unique_binary_string">
+      <option name="closed" value="true" />
+      <created>1740930569539</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1740930569539</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Leetcode: q2460_apply_operations_to_an_array.q1980_find_unique_binary_string">
+      <option name="closed" value="true" />
+      <created>1740930648041</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1740930648041</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Leetcode: q2460_apply_operations_to_an_array">
+      <option name="closed" value="true" />
+      <created>1740930691774</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1740930691774</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Leetcode: q2570_merge_two_2d_arrays_by_summing_values">
+      <option name="closed" value="true" />
+      <created>1740935517922</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1740935517923</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Leetcode: q1780_check_if_number_is_a_sum_of_powers_of_three">
+      <option name="closed" value="true" />
+      <created>1741110704308</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1741110704308</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: q2466_count_ways_to_build_good_strings" />
-    <MESSAGE value="Leetcode: q938_minimum_cost_for_tickets" />
-    <MESSAGE value="Leetcode: q1422_maximum_score_after_splitting_a_string" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Leetcode: q2559_count_vowel_strings_in_ranges" />
     <MESSAGE value="Leetcode: Create new y2025 package" />
     <MESSAGE value="Leetcode: q1930_unique_length_3_palindromic_subsequences" />
@@ -406,7 +473,10 @@
     <MESSAGE value="Leetcode: q1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n" />
     <MESSAGE value="Leetcode: q1980_find_unique_binary_string" />
     <MESSAGE value="Leetcode: q2460_apply_operations_to_an_array.q1980_find_unique_binary_string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: q2460_apply_operations_to_an_array.q1980_find_unique_binary_string" />
+    <MESSAGE value="Leetcode: q2460_apply_operations_to_an_array" />
+    <MESSAGE value="Leetcode: q2570_merge_two_2d_arrays_by_summing_values" />
+    <MESSAGE value="Leetcode: q1780_check_if_number_is_a_sum_of_powers_of_three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: q1780_check_if_number_is_a_sum_of_powers_of_three" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
