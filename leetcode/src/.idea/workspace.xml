@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f646638-1c7c-4f33-a3e2-aa435f90b25d" name="Changes" comment="Leetcode: q1780_check_if_number_is_a_sum_of_powers_of_three">
-      <change afterPath="$PROJECT_DIR$/y2025/q2579_count_total_number_of_colored_cells/Solution.kt" afterDir="false" />
+    <list default="true" id="4f646638-1c7c-4f33-a3e2-aa435f90b25d" name="Changes" comment="Leetcode: q2579_count_total_number_of_colored_cells">
+      <change afterPath="$PROJECT_DIR$/y2025/q2965_find_missing_and_repeated_values/Solution.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -407,7 +407,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741110704308</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Leetcode: q2579_count_total_number_of_colored_cells">
+      <option name="closed" value="true" />
+      <created>1741195901854</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1741195901854</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Leetcode: q2579_count_total_number_of_colored_cells">
+      <option name="closed" value="true" />
+      <created>1741195938741</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1741195938741</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +467,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Leetcode: q2559_count_vowel_strings_in_ranges" />
     <MESSAGE value="Leetcode: Create new y2025 package" />
     <MESSAGE value="Leetcode: q1930_unique_length_3_palindromic_subsequences" />
     <MESSAGE value="Leetcode: q1769_minimum_number_of_operations_to_move_all_balls_to_each_box" />
@@ -476,7 +491,8 @@
     <MESSAGE value="Leetcode: q2460_apply_operations_to_an_array" />
     <MESSAGE value="Leetcode: q2570_merge_two_2d_arrays_by_summing_values" />
     <MESSAGE value="Leetcode: q1780_check_if_number_is_a_sum_of_powers_of_three" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: q1780_check_if_number_is_a_sum_of_powers_of_three" />
+    <MESSAGE value="Leetcode: q2579_count_total_number_of_colored_cells" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: q2579_count_total_number_of_colored_cells" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
