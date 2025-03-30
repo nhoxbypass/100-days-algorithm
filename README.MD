@@ -1,4 +1,4 @@
-### 100 days of algorithms
+## 100 days of Algorithms
 
 This repository contains source code to accompany [100 days of algorithms](https://medium.com/100-days-of-algorithms) challenge.
 
@@ -8,6 +8,6 @@ If you are interested, here's the [intro to the series](https://medium.com/100-d
 
 The challenge was quite fun and rough, as well. Do not expect the implementations to be the best, nor fastest, nor nicest, nor bug-free. Do expect to see code written in haste. A code that contains the same amount of enthusiasm and love to algorithms as many it contains bugs.
 
-#### notes
+#### Note
 
-* the codebase was developed using `Python 3.6`
+* The codebase was developed using `Python 3.6`, `Java`, `Kotlin`
